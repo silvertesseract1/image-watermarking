@@ -8,7 +8,7 @@ class Config(object):
     
     basedir    = os.path.abspath(os.path.dirname(__file__))
 
-    SECRET_KEY = 'pianalytix'
+    SECRET_KEY = 'pianalytixx'
 
     UPLOADS = "/home/username/app/app/static/uploads"
     SESSION_COOKIE_SECURE = True
